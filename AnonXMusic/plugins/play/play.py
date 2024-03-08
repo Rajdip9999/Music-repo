@@ -32,8 +32,8 @@ from config import BANNED_USERS, lyrical
             "vplay",
             "cplay",
             "cvplay",
-            "playforce",
-            "vplayforce",
+            "smartboy",
+            "vsmartboy",
             "cplayforce",
             "cvplayforce",
         ]
