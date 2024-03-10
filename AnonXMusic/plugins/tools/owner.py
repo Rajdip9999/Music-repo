@@ -1,7 +1,6 @@
 from pyrogram import Client, filters
 
 from AnonXMusic import app
-from AnonXMusic.utils.bgtmusic.bk import command
 
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 
